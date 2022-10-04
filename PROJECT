@@ -1,0 +1,7 @@
+domain: ydzs.io
+repo: builder-demo
+resources:
+- group: webapp
+  kind: Guestbook
+  version: v1
+version: "2"
